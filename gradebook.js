@@ -1,4 +1,4 @@
-
+import {pool} from "./pgConfig.js"
 
 async function controlGradebook(req, res)
 {
